@@ -1,3 +1,8 @@
 {
-  
+  "TestURLs": 
+  [
+    "https://apps.powerapps.com/play/cedbe485-0ec5-484f-861b-50cfe6b4527a?tenantId=43de655e-999a-419a-bebb-37b748c36c0c&__PATestCaseId={testCaseId}",
+    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
+    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}"
+  ]
 }
